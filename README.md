@@ -1,4 +1,4 @@
-# 📊 Proyecto 1 — PIB total vs PIB per cápita en la UE (Eurostat)
+# PIB total vs PIB per cápita en la UE (Eurostat)
 
 Este proyecto responde a una pregunta muy concreta: **¿crecer en PIB total es lo mismo que crecer en PIB per cápita?**
 Compara la evolución de ambos indicadores para varios países de la UE usando datos abiertos de Eurostat.
