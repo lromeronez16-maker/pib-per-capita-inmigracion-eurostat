@@ -1,7 +1,6 @@
 ## 👋 Sobre mí
 
 **Lorenzo** — Estudiante de ADE (4º curso), UCLM, Ciudad Real
-*En busca de especialización en Economía, Métodos Cuantitativos y Análisis de Datos*
 
 Estudiante de 4º curso del Grado en Administración y Dirección de Empresas (ADE) en la Universidad de Castilla-La Mancha (Ciudad Real). Dentro del grado, eligiendo entre dos itinerarios: **Dirección Económico-Financiera y Fiscal** (con máster en auditoría) y **Economía y Métodos Cuantitativos** (con máster en modelización de datos).
 
