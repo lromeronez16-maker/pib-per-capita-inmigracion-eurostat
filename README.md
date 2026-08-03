@@ -13,6 +13,14 @@ Este proyecto responde a una pregunta muy concreta: **¿crecer en PIB total es l
 
 Compara la evolución de ambos indicadores para varios países de la UE usando datos abiertos de Eurostat, e incorpora población y saldo migratorio neto para explorar esa diferencia con más detalle.
 
+## Abstract
+
+This project examines a common but imprecise claim: that immigration "grows the economy." While immigration does tend to increase total GDP almost by definition — more workers producing more aggregate output — this does not automatically translate into a higher **GDP per capita**, the indicator most closely tied to average living standards.
+
+Using Eurostat data on GDP per capita (PPS), real GDP growth, population, and net migration for a set of EU countries, this analysis compares how total GDP, GDP per capita, and population evolve together. It highlights cases — such as Italy, where sustained immigration coexists with a declining total population due to strongly negative natural change — that illustrate how population dynamics depend on more than migration alone.
+
+The analysis is explicitly descriptive rather than causal: it does not attempt to isolate the causal effect of migration on per-capita economic outcomes, which would require the econometric techniques discussed separately (difference-in-differences, instrumental variables, control for confounding factors). Its goal is instead to show that GDP total, GDP per capita, and population are three distinct variables that should be examined separately before drawing conclusions about the economic impact of immigration.
+
 ## Objetivo
 
 - Descargar series temporales de PIB per cápita (PPS), crecimiento real del PIB, población y saldo migratorio neto.
