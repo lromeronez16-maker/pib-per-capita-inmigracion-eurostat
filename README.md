@@ -1,10 +1,12 @@
-## 👋 Sobre mí
+## Sobre mí
 
 **Lorenzo** — Estudiante de ADE (4º curso), UCLM, Ciudad Real
 
 Estudiante de 4º curso del Grado en Administración y Dirección de Empresas (ADE) en la Universidad de Castilla-La Mancha (Ciudad Real). Dentro del grado, eligiendo entre dos itinerarios: **Dirección Económico-Financiera y Fiscal** (con máster en auditoría) y **Economía y Métodos Cuantitativos** (con máster en modelización de datos).
 
-Me he decantado por el itinerario cuantitativo: mejor posicionamiento a largo plazo en un entorno donde el análisis de datos y la IA son cada vez más centrales en economía y finanzas. Mi objetivo es combinar una formación económica sólida con herramientas cuantitativas y de programación — de ahí estos proyectos de portfolio.
+Me he decantado por el itinerario cuantitativo: mejor posicionamiento a largo plazo en un entorno donde el análisis de datos y la IA son cada vez más centrales en economía y finanzas. Mi objetivo es combinar una formación económica sólida con herramientas cuantitativas y de programación de ahí estos proyectos de portfolio.
+
+> Este notebook se ha construido con asistencia de IA (Claude, de Anthropic). Los datos, el planteamiento del análisis y las conclusiones han sido revisados y validados por el autor.
 # PIB total vs PIB per cápita en la UE, y el papel de la inmigración
 
 Este proyecto responde a una pregunta muy concreta: **¿crecer en PIB total es lo mismo que crecer en PIB per cápita?** Y, en particular, ¿qué papel juega ahí la inmigración, que suele mencionarse como motor de crecimiento económico?
